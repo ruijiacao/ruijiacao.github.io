@@ -14,8 +14,8 @@ redirect_from:
 
 ## Experience
 * Summer 2021: Undergraduate Researcher
-  * Georgia Tech
   * Supervisor: Prof. Anton Bernshteyn
+
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
