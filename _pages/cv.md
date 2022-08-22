@@ -19,8 +19,6 @@ Work experience
   * Georgia Tech
   * Mentor: Prof. Anton Bernshteyn
 
-Publications
-======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
