@@ -66,4 +66,21 @@ author_profile: yes
 }
 </style>
 
-<h2>Publications</h2>
+<h2>Preprints</h2>
+<div class="cards">
+<div class="card">
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;">"<a href="www.google.com"> Counting Colorings of Triangle-Free Graphs (w/ Mike Findley, Joelean Hall, Andy Stravers & Jim Walsh).<a href="https://mikedenly.com/research/natural-resources-conflict"><img src="/images/world_nr.png" class="thumbnail" style="width: 90%;"></a></p></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
