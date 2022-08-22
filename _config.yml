@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jai Moondra"
+title                    : "Ruijia Cao"
 title_separator          : "-"
-name                     : &name "Jai Moondra"
+name                     : &name "Ruijia Cao"
 description              : &description #"personal description"
-url                      : https://jaimoondra.github.io
+url                      : https://ruijiacao.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jaimoondra/jaimoondra.github.io"
+repository               : "ruijiacao/ruijiacao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jai Moondra"
+  name             : "Ruijia Cao"
   avatar           : "profile.png"
-  bio              : "PhD student in algorithms, combinatorics, and optimization (ACO)"
+  bio              : "Undergraduate Student in Computer Science"
   location         : "Atlanta"
   employer         : "Georgia Tech"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=UexdYR8AAAAJ"
-  email            : "jmoondra3@gatech.edu"
+  googlescholar    :
+  email            : "rcao62@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jaimoondra"
+  github           : "ruijiacao"
   google_plus      :
   keybase          :
   instagram        :
