@@ -67,8 +67,6 @@ author_profile: yes
 </style>
 
 <h2>Preprints</h2>
-<div class="cards">
-<div class="card">
 <p style="font-size: 11.5pt; text-align: left;"> <i> <a href="https://arxiv.org/abs/2109.13376" target="_blank" rel="noopener noreferrer">  Counting Colorings of Triangle-free Graphs </a> </i>  (with Anton Bernshteyn, Tyler Brazelton, Akum Kang) </p>
 
 
