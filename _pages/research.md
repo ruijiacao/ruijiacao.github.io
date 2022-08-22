@@ -69,7 +69,7 @@ author_profile: yes
 <h2>Preprints</h2>
 <div class="cards">
 <div class="card">
-<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"> <a href="https://www.w3schools.com"> Counting Colorings of Triangle-free Graphs</a>.  (with Mike Findley, Joelean Hall, Andy Stravers & Jim Walsh).<a href="https://mikedenly.com/research/natural-resources-conflict"> </div>
+<p style="font-size: 11.5pt; text-align: left; margin-bottom: 0.5em;"> <a href="https://www.w3schools.com"> Counting Colorings of Triangle-free Graphs</a>.  (with Mike Findley, Joelean Hall, Andy Stravers & Jim Walsh).<a href="https://arxiv.org/abs/2109.13376"> </div>
 
 
 
