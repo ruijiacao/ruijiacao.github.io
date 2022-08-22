@@ -11,14 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Computer Science and Engineering, Indian Institute of Technology, 2019
-* Ph.D. in Algorithms Combinatorics and Optimization, Georgia Tech (expected 2025)
+* BS in Computer Science, Georgia Tech (expected May 2024)
 
 Work experience
 ======
-* Summer 2018: Research Assistant
-  * Duke University
-  * Supervisor: Dr. Debmalya Panigrahi, Dr. Rong Ge
+* Summer 2021: Undergraduate Researcher
+  * Georgia Tech
+  * Mentor: Prof. Anton Bernshteyn
 
 Publications
 ======
