@@ -1,3 +1,4 @@
+pubtype: 'journal'
 ---
 layout: archive
 title: "Publications"
