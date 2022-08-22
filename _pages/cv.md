@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+#Education
 ======
 * B.S. in Computer Science, Georgia Institute of Technology, Expected (May 2024)
 
-Experience
+#Experience
 ======
 * Summer 2021: Undergraduate Researcher
   * Georgia Tech
