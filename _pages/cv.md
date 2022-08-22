@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* BS in Computer Science, Georgia Tech (expected May 2024)
+* B.S. in Computer Science, Georgia Institute of Technology, Expected (May 2024)
 
-Work experience
+Experience
 ======
 * Summer 2021: Undergraduate Researcher
   * Georgia Tech
-  * Mentor: Prof. Anton Bernshteyn
+  * Supervisor: Prof. Anton Bernshteyn
+======
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
