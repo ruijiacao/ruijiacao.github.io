@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /
 title: Research
 description: Here are my publications and preprints.
 year: 2023
