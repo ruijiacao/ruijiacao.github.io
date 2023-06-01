@@ -3,6 +3,7 @@ layout: page
 permalink: /publications/
 title: Research
 description: Here are my publications and preprints.
+year: 2023
 nav: true
 nav_order: 1
 ---
