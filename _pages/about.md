@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am Ruijia Cao, and I am currently an undergraduate student at Georgia Tech. My interests include high dimensional statistics/probability, geometry, and probabilistic combinatorics. 
+I am Ruijia Cao, and I am currently an undergraduate at Georgia Tech. My interests include high dimensional statistics/probability, geometry, and probabilistic combinatorics. 
