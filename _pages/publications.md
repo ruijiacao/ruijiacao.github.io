@@ -12,7 +12,7 @@ Publications
 
 <!-- _pages/publications.md -->
 <div class="publications">
-  {% bibliography -f papers%}
+  {% bibliography -f {{papers}} --style simple-ieee.csl --bibliography_list_tag ul %}
 </div>
 
 
