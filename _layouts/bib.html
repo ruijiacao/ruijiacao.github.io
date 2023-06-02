@@ -8,16 +8,16 @@
     <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
     {%- endif %}
     {%- if entry.eprint %}
-        <a href="http://arxiv.org/abs/{{ entry.eprint }}" class="btn btn-sm z-depth-0" role="button">[PDF]</a>
+        <a style="font-weight:bold" href="http://arxiv.org/abs/{{ entry.eprint }}" class="btn btn-sm z-depth-0">[PDF]</a>
     {%- endif %}
     {%- if entry.code %}
-        <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">[Code]</a>
+        <a style="font-weight:bold" href="{{ entry.code }}" class="btn btn-sm z-depth-0">[Code]</a>
     {%- endif %}
     {%- if entry.slides %}
         {% if entry.slides contains '://' -%}
-            <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">[Slides]</a>
+            <a style="font-weight:bold" href="{{ entry.slides }}" class="btn btn-sm z-depth-0">[Slides]</a>
         {%- else -%}
-            <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">[Slides]</a>
+            <a style="font-weight:bold" href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" >[Slides]</a>
         {%- endif %}
     {%- endif %}
 </div>
