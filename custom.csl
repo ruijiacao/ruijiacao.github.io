@@ -81,13 +81,13 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout delimiter="&#8211;" prefix="[" suffix="]">
+    <layout delimiter="&#8211;" prefix="" suffix="">
       <text variable="citation-number"/>
     </layout>
   </citation>
   <bibliography and="symbol" second-field-align="flush" entry-spacing="0">
     <layout suffix=".">
-      <text variable="citation-number" prefix="[" suffix="] "/>
+      <text variable="citation-number" prefix="" suffix=". "/>
       <text macro="author" suffix=", "/>
       <choose>
         <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
