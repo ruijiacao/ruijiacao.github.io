@@ -1,11 +1,15 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications and Preprints
+title: Research
 description: All papers are listed in reverse chronological order.
 nav: true
 nav_order: 1
 ---
+
+Publications
+------------------------
+
 <!-- _pages/publications.md -->
 <div class="publications">
   {% bibliography -f papers%}
