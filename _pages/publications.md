@@ -10,7 +10,7 @@ nav_order: 1
 
 <!-- _pages/publications.md -->
 <div class="publications">
-  {% bibliography -f {{papers}} --style simple-ieee.csl --bibliography_list_tag ul %}
+  {% bibliography -f papers --bibliography_list_tag ul %}
 </div>
 
 
