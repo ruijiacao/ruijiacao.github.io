@@ -2,12 +2,13 @@
 ---
 {{ reference }}
 
+
 <div class="links">
     {%- if entry.abstract %}
       <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
     {%- endif %}
     {%- if entry.eprint %}
-      <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+      <a href="http://arxiv.org/abs/{{ entry.eprint }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
     {%- endif %}
     {%- if entry.code %}
       <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
