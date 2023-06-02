@@ -6,6 +6,12 @@ description: You can find below a list of my preprints and publications. All pap
 nav: true
 nav_order: 1
 ---
+<style>
+.publications {
+  margin: 20px;
+}
+</style>
+
 
 #### Publications
 
