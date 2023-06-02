@@ -269,7 +269,7 @@ scholar:
   last_name: [Cao]
   first_name: [Ruijia]
 
-  style: bibtex
+  style: ieee
   locale: en
 
   source: /_bibliography/
