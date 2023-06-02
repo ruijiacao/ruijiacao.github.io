@@ -6,6 +6,7 @@ body {
   padding-bottom: 70px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  margin: 0;
 
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;
@@ -32,6 +33,7 @@ body.sticky-bottom-footer {
     width: 100%;
   }
 }
+
 
 // TODO: redefine content layout.
 
