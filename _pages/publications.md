@@ -7,7 +7,9 @@ nav: true
 nav_order: 1
 ---
 
-### Publications
+#### Publications
+
+---
 
 <div class="publications">
   {% bibliography -f papers %}
