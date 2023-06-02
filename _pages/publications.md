@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: Research
-description: My publications and preprints.
+title: Publications and Preprints
+description: All papers are listed in reverse chronological order.
 nav: true
 nav_order: 1
 ---
