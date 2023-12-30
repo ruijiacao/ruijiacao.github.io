@@ -17,4 +17,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am Ruijia Cao, and I am currently an undergraduate student at Georgia Tech. My research interests include high dimensional statistics/probability, geometry, and probabilistic combinatorics. 
-$\int_0^1 f $
+$$\int_0^1 f $$
