@@ -24,6 +24,7 @@ urlcolor: blue
 extension: latex_macros
 ---
 This is a problem
-```math
+``
 $$df$$ 
-```
+``
+
