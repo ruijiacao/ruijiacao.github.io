@@ -35,4 +35,3 @@ We connect the vertices $$x$$ and $$y$$ by an
 edge in $$G$$ iff $$f (x, y) \in S$$ or $$f (y, x) \in S$$. 
 Show that the chromatic number of $$G$$ is countable.
 ```
-$$df$$.
