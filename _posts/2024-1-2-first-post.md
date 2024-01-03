@@ -24,6 +24,9 @@ urlcolor: blue
 extension: latex_macros
 ---
 This is a problem
+\begin{example}
+hello
+\end{example}
 ```example
 Let $$S \subseteq \mathbb{R}$$ be a closed set and $$f\colon \mathbb{R}^{2n} \to \mathbb{R}$$ be a continuous function. 
 Let us define a graph $$G$$ as follows. 
