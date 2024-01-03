@@ -8,7 +8,7 @@ categories: sample-posts
 related_posts: false
 ---
 This is a problem
-``
-$df$ 
-``
+\begin{theorem}
+hello
+\end{theorem}
 
