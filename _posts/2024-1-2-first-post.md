@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018 Miklos Schweitzer Competition Problem 1 
+title: 2018 Miklós Schweitzer Competition Problem 1 
 date: 2024-1-2 
 description: 
 tags: Miklos Schweitzer 
