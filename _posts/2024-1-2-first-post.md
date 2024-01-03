@@ -23,6 +23,7 @@ header-includes: |
 urlcolor: blue
 extension: latex_macros
 ---
+This is a problem
 ```problem
 Let $$S \subseteq \mathbb{R}$$ be a closed set and $$f\colon \mathbb{R}^{2n} \to \
 \mathbb{R}$$ be a continuous function. Let us define a graph $$G$$ as
