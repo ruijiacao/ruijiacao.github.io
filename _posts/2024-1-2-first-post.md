@@ -7,8 +7,9 @@ tags: Miklos Schweitzer
 categories: sample-posts
 related_posts: false
 ---
-This is a problem
-\begin{theorem}
-hello
-\end{theorem}
+
+---
+**Problem**
+This $$\mathbb{R}$$ 
+---
 
