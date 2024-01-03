@@ -3,7 +3,7 @@ layout: post
 title: An Interesting Application of Vitali Covering 
 date: 2024-1-2 
 description: 
-tags: Miklos Schweitzer 
+tags: Vitali-Covering, Topology
 categories: sample-posts
 related_posts: false
 ---
