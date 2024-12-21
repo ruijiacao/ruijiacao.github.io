@@ -8,7 +8,10 @@ profile:
   align: right
   image: webpage_photo.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: >
+    <p>657 Rhodes Hall</p>
+    <p>136 Hoy Rd.</p>
+    <p>Ithaca, NY 14853</p> 
   
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
