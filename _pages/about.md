@@ -17,4 +17,4 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am Ruijia Cao, a PhD student in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) at Cornell University. Previously, I was an undergraduate student at Georgia Tech, where I was very fortunate to be advised by [Florian Schäfer](https://f-t-s.github.io/). My research interests lie at the interface of high dimensional probability/statistics, geometry, and algorithms. 
+I am Ruijia Cao, a PhD student in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) at Cornell University, working with [Christina Lee Yu](https://cleeyu.orie.cornell.edu/), [Sid Banerjee](https://sidbanerjee.orie.cornell.edu/), and [Yuchen Wu](https://wuyc0114.github.io/). Previously, I was an undergraduate student at Georgia Tech, where I was very fortunate to be advised by [Florian Schäfer](https://f-t-s.github.io/). My research interests lie at the interface of high dimensional probability/statistics, geometry, and algorithms. 
